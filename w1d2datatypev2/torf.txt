@@ -1,0 +1,5 @@
+
+
+5. Which of the following statements is true?
+a. In computer programming, a statement can be part of an expression.false
+b. In computer programming, an expression can be a part of a statement.true

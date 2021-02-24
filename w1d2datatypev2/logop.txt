@@ -1,0 +1,9 @@
+
+
+uses of the logical operators || and &&
+
+&& operator returns true if both operands are true 
+and returns false if one of the operands are false.
+the operands are relational or equality expressions.
+|| yields true if and only if and only if one or more of its operand is true 
+it is logically used with boolean values

@@ -1,0 +1,26 @@
+Q1. If an assignment is performed with out using 
+    let or const ins trict more it thorows an error.
+Q2. some of the reserved words in js are static ,functions, let ,
+    true,return ,argument,try,typeof,void var...
+Q3. function BakeBread(flower){
+     heat oven to 200-300 F;
+     mix flower baking powder and salt;
+     add flavour;
+     mix further more;
+     Bake for few minutes;
+     trun of oven when don;
+     }
+
+     let actualPrice = 1$;
+     let chnage;
+     buy coffee;
+     go to starbucks ;
+     order the drink;
+     pay the money;
+     get the the coffee;
+     chnage = amountPaid-actualPrice;
+ Q4.computer program similar/ different than an algorithm a computer program is a specific sequence of instruction in a specific programming language
+     and may contain many algorithms,where as an algorithm is a step by step set of operations to be performed to solve a specific task.
+
+I have created a folder introDemoCode.js, in a folder, w1d1intro
+and published it in 301 repository.
