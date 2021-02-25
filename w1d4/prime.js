@@ -1,6 +1,6 @@
 
 //Question 1
-
+//check wheather a given number is prime or not based it number of factors
 const prompt = require('prompt-sync')();
 let input = prompt("enter a number: ");
 let factorCount=0;
