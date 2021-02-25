@@ -1,21 +1,15 @@
 input               process              output
 ===========================================================
- status student          number of books
+  student          number of books
                      overdue 
                        if =0                 6
                        if <3                 4
                        if >=3                2
    ==========================================================         
- status  faulty               if=0                  12
+  faulty               if=0                  12
                        if<3                  10
                        if>=3                  8
  =============================================================                      
- status  other                if = 0                 4
+  other                if = 0                 4
                        fewer than 3           3
                        >=3                    2
-
-
-                                       
-                                           
-                        
-                                    
