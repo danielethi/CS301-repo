@@ -1,6 +1,5 @@
 //question 3 clac down  payment
 
-const prompt = require('prompt-sync')();
 
 let cost=+prompt("enter cost of the house:  ");
 let downPayment;
@@ -14,3 +13,7 @@ if(cost>=0 && cost<= 50000){
           downPayment=(5000+0.1)*(cost-200000);
 }
 console.log("the down payment is: "+downPayment+"$");
+
+   
+  
+  

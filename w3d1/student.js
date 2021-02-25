@@ -12,5 +12,5 @@ if(0<credits<30){
 }else{
     label="senior";
 }
-console.log("the student name and label is: "+" "+studentName+abel);
+/console.log("the student name and label is: "+" "+studentName+""+label);
 
