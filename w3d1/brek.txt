@@ -1,0 +1,4 @@
+Reading Question 1
+
+if we don't use break in switch statment the program will continue  
+till it finds break or end of the statment.
