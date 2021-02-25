@@ -1,15 +1,18 @@
 input               process              output
 ===========================================================
-  student          number of books
-                     overdue 
-                       if =0                 6
-                       if <3                 4
-                       if >=3                2
+  age 5 or younger        season                     bedtime
+                      
+                       if =(summer && fall )          8:30PM
+                       || (winter or spring )         8:00 Pm         
+                                  
    ==========================================================         
-  faulty               if=0                  12
-                       if<3                  10
-                       if>=3                  8
- =============================================================                      
-  other                if = 0                 4
-                       fewer than 3           3
-                       >=3                    2
+6 to 12                if=summer                      9:30PM
+                       ||winter||spring||fall         8:30PM              
+                                        
+                                        
+                                        
+13 or older               if=summer winter             8:30PM
+                           spring fall summer          10:30PM
+                           winter spring fall          9:30PM
+                  
+            
