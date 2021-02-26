@@ -19,9 +19,11 @@ if(accountPin===pin){
     console.log("Incorrect,try again.");
     +prompt("insert pin: ");
     }
+    if(accountPin===pin){
+        console.log("Correct,welcome back.")
+    
+    }else{
     console.log("Sorry you have been locked out");
-}else{
-
 }
-
+}
 
