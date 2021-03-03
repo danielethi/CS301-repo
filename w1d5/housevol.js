@@ -18,3 +18,4 @@ function triangelArea(){
     let s=(a+b+c)/2;
     return Math.sqrt(s*(s-b)*s-c);
 }
+
