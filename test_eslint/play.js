@@ -1,4 +1,4 @@
-'use strict';
+
 /**
  * 
  * @param {number} n is a number to be tested
