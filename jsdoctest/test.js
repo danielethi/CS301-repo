@@ -5,7 +5,7 @@
  * @return {boolean} result 
  */
 
-var printEven();
+
 var x;
 function isEven(n){
     return n%2===0;
@@ -21,5 +21,6 @@ function printEven(n){
         if(isEven(i) )console.log(i);
     }
 }
+
 console.log(x);
 var x =5;
