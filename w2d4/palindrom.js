@@ -11,5 +11,5 @@ function checkPalindrome(arr){
      }
      return palindrom;
 }
-let result=checkPalindrome([1,4,4,1]);
+let result=checkPalindrome(["Lina","ana","Lina"]);
 console.log(result);
