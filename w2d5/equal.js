@@ -12,12 +12,9 @@ function isArrayEqual(arr1,arr2){
                return true;
            }else{
 
-             return false;      
-           
+             return false;        
        }
-
 }
-
     }
 }
 let result = isArrayEqual([1,2,3],[1,2,3]);
