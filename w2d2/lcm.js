@@ -2,17 +2,12 @@
 let gcd;
 let leastCommonMultiple;
 let gretestCommonDivisor=function(a,b){
-
   for(let i = 1; i <= a && i <= b; ++i) {
-  
     if((a % i == 0) && (b % i == 0)){
       gcd = i;
   }
-
 return gcd;
-
 }
-
 let leastCommonMultiple =function(a,b){
   leasetCommonMultiple=(a*b)/gcd;
   return leastCommonMultiple;
