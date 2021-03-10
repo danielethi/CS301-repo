@@ -13,7 +13,7 @@ function countdigits(n,k){
     return countdigits(n / 10, k); 
 
 
-// Driver Code 
+
 }
 
    console.log(countdigits(1000, 0)); //output is 3 3 zeroes
