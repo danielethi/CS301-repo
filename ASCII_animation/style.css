@@ -1,0 +1,11 @@
+body{
+text-align: center;
+}
+#bigDiv{
+   float: left;
+   border: 20px 20px 20px 20px solid palevioletred;
+   font-size: 10px;
+   padding: 10px;
+background-color:  #CCCCFF;
+    
+}
